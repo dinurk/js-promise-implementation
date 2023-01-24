@@ -1,0 +1,20 @@
+{
+  "name": "my-promise",
+  "version": "1.0.0",
+  "description": "Попытка реализовать функциональность встроенного класса Promise.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinurk/js-promise-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinurk/js-promise-implementation/issues"
+  },
+  "homepage": "https://github.com/dinurk/js-promise-implementation#readme"
+}
