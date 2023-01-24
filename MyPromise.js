@@ -2,7 +2,7 @@ export default class MyPromise {
 
     constructor(executor) {
 
-        if(!executor instanceof Function) {
+        if(!(executor instanceof Function)) {
             throw new TypeError("given executor value is not a function");
         }
 
