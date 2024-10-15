@@ -13,6 +13,3 @@
 .then(result => result)  
 .then(result => result)  
 .then(result => console.log(result))* 
-
-В процессе доработки:  
-* добавление нескольких обработчиков на один и тот же промис
